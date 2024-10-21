@@ -5,11 +5,15 @@ hidden: false
 metadata:
   robots: index
 ---
+# Accordion Example
+
 <Accordion title="Places to See" icon="fa-info-circle">
   Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Ut enim
   ad minim veniam, quis nostrud exercitation ullamco. Excepteur sint
   occaecat cupidatat non proident!
 </Accordion>
+
+# Cards Example
 
 <Cards columns={4}>
   <Card title="First Card" href="https://readme.com" icon="fa-home" target="_blank">
@@ -30,6 +34,8 @@ metadata:
 </Cards>
 
 <br />
+
+# Tabs Example
 
 <Tabs>
   <Tab title="First Tab">
