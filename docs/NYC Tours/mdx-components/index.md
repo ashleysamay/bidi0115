@@ -29,7 +29,7 @@ metadata:
   </Card>
 
   <Card title="Fourth Card" icon="fa-question">
-    **Excepteur sint occaecat cupidatat non proident**
+    **search term tes 12ty78**
   </Card>
 </Cards>
 
