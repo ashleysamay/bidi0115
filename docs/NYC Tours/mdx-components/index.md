@@ -29,7 +29,7 @@ metadata:
   </Card>
 
   <Card title="Fourth Card" icon="fa-question">
-    **search term tes 12ty78**
+    **search term test 12ty78**
   </Card>
 </Cards>
 
