@@ -95,5 +95,5 @@ This text is <Highlight>highlighted in yellow</Highlight>, while this text is <H
 ## Sparkle Effect
 
 <Sparkle>
-  This text has little sparkles that pop up over it.
+  To use this component make sure you pass in prop1 and do this
 </Sparkle>
